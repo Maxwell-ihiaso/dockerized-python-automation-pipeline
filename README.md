@@ -225,18 +225,7 @@ Sample log:
 
 
 ---
-## 🧮 Example Output
-API         Description	           HTTPS	    Link	                                Category
-Cat Facts	Daily cat facts     	✅	        https://catfact.ninja       	        Animals
-Animechan	Random anime quotes 	✅	        https://animechan.vercel.app        	Anime
 
-Output formats:
-
-CSV: data/outputs_<hash>.csv
-
-JSON: data/outputs_<hash>.transformed.json
-
-Parquet: data/outputs_<hash>.transformed.parquet
 
 
 
