@@ -1,0 +1,64 @@
+# Virtual environment
+venv/
+.env
+
+# Build and generated files
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Dependency files
+*.egg
+*.egg-info
+*.whl
+*.tar.gz
+*.zip
+*.pyz
+*.spec
+*.egg-link
+*.egg-info
+*.egg
+*.egg-info
+*.whl
+*.tar.gz
+*.zip
+*.pyz
+*.spec
+*.egg-link
+
+# Log files
+*.log
+
+# Configuration files
+.env
+.env.local
+.envrc
+
+# User-specific files
+*.pyc
+__pycache__/
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.sconsign.dblite
+*.sconsign.out
+.sconsign.dblite
+.sconsign.out
+*.DS_Store
+
+# Large binary files
+*.mp4
+*.avi
+*.jpg
+*.png
+*.db
+
+
+# Generated files
+data
+
+.pytest*
+lib
